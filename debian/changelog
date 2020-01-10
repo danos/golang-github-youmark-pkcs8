@@ -1,5 +1,5 @@
-golang-github-youmark-pkcs8 (1.1-1) UNRELEASED; urgency=medium
+golang-github-youmark-pkcs8 (1.1-1) unstable; urgency=medium
 
   * Initial release (Closes: #948586)
 
- -- Drew Parsons <dparsons@debian.org>  Fri, 10 Jan 2020 23:01:32 +0800
+ -- Drew Parsons <dparsons@debian.org>  Fri, 10 Jan 2020 23:32:21 +0800
