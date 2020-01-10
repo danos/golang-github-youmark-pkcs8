@@ -19,7 +19,7 @@ Package: golang-github-youmark-pkcs8-dev
 Architecture: all
 Depends: golang-golang-x-crypto-dev,
          ${misc:Depends}
-Description: Go package implementing functions to parse and convert private keys in PKCS#8 format, as defined in RFC5208 and RFC5958 (library)
+Description: Go package to parse and convert private keys in PKCS#8 format (library)
  pkcs8 OpenSSL can generate private keys in both "traditional format"
  and PKCS#8 format. Newer applications are advised to use more
  secure PKCS#8 format. Go standard crypto package provides a function
