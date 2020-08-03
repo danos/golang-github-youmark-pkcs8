@@ -3,7 +3,7 @@ golang-github-youmark-pkcs8 (1.1-3danos1) unstable; urgency=medium
   [ Drew Parsons ]
   * clean cruft from package Description
 
- -- Daniel Gollub <dgollub@att.com>  Mon, 03 Aug 2020 11:43:43 +0200
+ -- Daniel Gollub <dgollub@att.com>  Mon, 03 Aug 2020 11:44:20 +0200
 
 golang-github-youmark-pkcs8 (1.1-2) unstable; urgency=medium
 
